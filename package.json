@@ -1,6 +1,6 @@
 {
-  "_from": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
-  "_id": "stratum-pool@0.1.6",
+  "_from": "git+https://github.com/TooPlain/main-kawpow-stratum-pool.git",
+  "_id": "stratum-pool@0.1.7",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/stratum-pool",
@@ -10,18 +10,18 @@
   },
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
-    "rawSpec": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
-    "saveSpec": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
-    "fetchSpec": "https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+    "raw": "git+https://github.com/TooPlain/main-kawpow-stratum-pool.git",
+    "rawSpec": "git+https://github.com/TooPlain/main-kawpow-stratum-pool.git",
+    "saveSpec": "git+https://github.com/TooPlain/main-kawpow-stratum-pool.git",
+    "fetchSpec": "https://github.com/TooPlain/main-kawpow-stratum-pool.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git#58e16e9de44066ee743cc7bf1e505cc795988ae0",
-  "_spec": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+  "_resolved": "git+https://github.com/TooPlain/main-kawpow-stratum-pool.git#58e16e9de44066ee743cc7bf1e505cc795988ae0",
+  "_spec": "git+https://github.com/TooPlain/main-kawpow-stratum-pool.git",
   "_where": "/home/calm/pool2",
   "author": {
     "name": "Traysi"
