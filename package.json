@@ -1,0 +1,87 @@
+{
+  "_from": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+  "_id": "stratum-pool@0.1.6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {
+    "bindings": "1.5.0",
+    "nan": "2.14.2"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+    "rawSpec": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+    "saveSpec": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+    "fetchSpec": "https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git#58e16e9de44066ee743cc7bf1e505cc795988ae0",
+  "_spec": "git+https://github.com/seaborg1995/fixed-kawpow-stratum-pool.git",
+  "_where": "/home/calm/pool2",
+  "author": {
+    "name": "Traysi"
+  },
+  "bugs": {
+    "url": "https://github.com/RavenCommunity/kawpow-stratum-pool/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Jeremy Anderson"
+    },
+    {
+      "name": "Matthew Little"
+    },
+    {
+      "name": "vekexasia"
+    },
+    {
+      "name": "TheSeven"
+    },
+    {
+      "name": "fellu"
+    },
+    {
+      "name": "anduck"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "big-integer": "^1.6.48",
+    "bignum": "^0.13.1",
+    "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
+    "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+    "promise": "*",
+    "sha3": "*"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum poolserver in Node.js",
+  "engines": {
+    "node": ">=7"
+  },
+  "homepage": "https://github.com/RavenCommunity/kawpow-stratum-pool",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "bitcoin",
+    "Ravencoin",
+    "kawpow"
+  ],
+  "license": "GPL-2.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git"
+  },
+  "version": "0.1.6"
+}
