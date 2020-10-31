@@ -18,4 +18,4 @@ Plans for this app would be to eventually update all dependences to the latest v
 
 When I get NOMP working I'll create a new repo just for Kawpow-NOMP support.
 
-Thank you and any help would be appreaciated.
+Thank you and any help would be appreciated.
